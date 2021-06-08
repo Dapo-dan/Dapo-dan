@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dapo-dan
+- 👋 Hi, I’m Olatubosun Oladapo DAniel
 - 👀 I’m interested in Technical Development
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on ...

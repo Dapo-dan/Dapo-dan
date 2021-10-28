@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Olatubosun Oladapo Daniel
-- 👀 I’m interested in Technical Development
-- 🌱 I’m currently learning Android development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I am a mobile developer (Flutter and Java)
+- 💞️ I’m looking to collaborate on mobile development projects. 
 - 📫 How to reach me +2347025214514, oladapo.o@yahoo.com, odapo138@gmail.com
 
 <!---

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olatubosun Oladapo Daniel
 - 🌱 I am a mobile developer (Flutter)
 - 💞️ I’m looking to collaborate on mobile development projects. 
-- 📫 How to reach me +2347025214514, oladapo.o@yahoo.com, odapo138@gmail.com
+- 📫 How to reach me +2347025214514, odapo138@gmail.com, oladapo.o@yahoo.com
 
 <!---
 Dapo-dan/Dapo-dan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

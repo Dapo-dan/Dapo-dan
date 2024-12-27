@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-oladapodanielolatubosun-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oladapodanielolatubosun)](https://www.linkedin.com/in/oladapodanielolatubosun) [![Twitter Badge](https://img.shields.io/badge/-@dapo_dev-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dapo_dev)](https://twitter.com/dapo_dev)
 
-I'm a Software Engineer currently working at [Kunda Kids](https://kundakids.com).
+I'm a Software Engineer currently working at [MoniMoore](https://monimoore.com).
 
 **Here's a quick summary about me**:
 

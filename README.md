@@ -11,4 +11,3 @@ I'm a Software Engineer currently working at [MoniMoore](https://monimoore.com).
 - 😊 I’m looking to collaborate on mobile development projects. 
 - 💼 Job interests: Mobile Developer.
 - 📫 You can [view my resume](https://docs.google.com/document/d/1RjeIMeZAW9A-J0H7TwzMQ7uKAiL88Z0Q_zQ5MG-tt8Q/edit?usp=sharing) and contact me by emailing odapo138@gmail.com.
-| ------------- | ------------- |

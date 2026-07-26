@@ -61,19 +61,6 @@ My passion lies in transforming complex business requirements into intuitive dig
 
 ---
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=go,python,fastapi,firebase,postgres" />
-</p>
-
-- Go
-- FastAPI
-- Firebase
-- PostgreSQL
-
----
-
 ### Tools
 
 <p>
@@ -86,56 +73,6 @@ My passion lies in transforming complex business requirements into intuitive dig
 - Xcode
 - Figma
 - Postman
-
----
-
-# 💼 Experience
-
-I've contributed to products across:
-
-✅ Fintech
-
-✅ HealthTech
-
-✅ TravelTech
-
-✅ AI
-
-✅ Logistics
-
-✅ Marketplace Platforms
-
----
-
-# 📌 Featured Projects
-
-## ✈️ Packy
-
-An AI-powered travel planning platform helping users organize trips, manage itineraries and travel smarter.
-
-**Tech**
-
-Flutter • FastAPI • GraphQL • Firebase
-
----
-
-## 🏥 MedixInfo
-
-Healthcare Management System built for hospitals and healthcare providers.
-
-**Tech**
-
-Flutter • FastAPI • PostgreSQL
-
----
-
-## 🎟 Smart Event Check-In
-
-QR-powered event check-in platform designed for seamless attendee verification.
-
-**Tech**
-
-Flutter • Firebase
 
 ---
 
